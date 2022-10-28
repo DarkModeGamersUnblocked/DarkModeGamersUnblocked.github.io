@@ -1,4 +1,4 @@
-importScripts('./uv/uv.sw.js');
+importScripts('https://darkmodegamersunblocked.github.io/uv/uv.sw.js');
 
 const sw = new UVServiceWorker();
 
